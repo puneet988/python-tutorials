@@ -1,2 +1,4 @@
 # python-tutorials
-Some exercises on python using jupyter notebooks
+Introduction to python programming and syntax
+
+* Python programming basics
