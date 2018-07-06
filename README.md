@@ -7,4 +7,4 @@ Introduction to python programming and syntax
 
 * Tutorial_02 - Control statements
 
-    Covers iterating over data structures and different control statements like if else, for, while. Also covered are break and continue statements.
+    Covers iterating over data structures and different control statements like if else, for, while. Also covered are break and continue statements and examples.
